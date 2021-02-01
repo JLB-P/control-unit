@@ -1,0 +1,16 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/A_working/VHDL/basys3/unidad de control/unidad de control.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sim_1/new/unidad_de_control_main_tb.v,1605615951,verilog,,,,unidad_de_control_main_tb,,,,,,,,
+C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/comparador1.v,1605595369,verilog,,C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/comparador2.v,,comparador1,,,,,,,,
+C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/comparador2.v,1605595108,verilog,,C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/control.v,,comparador2,,,,,,,,
+C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/control.v,1605602543,verilog,,C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/multiplexor.v,,control,,,,,,,,
+C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/multiplexor.v,1605594720,verilog,,C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/mux2x1.v,,multiplexor,,,,,,,,
+C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/mux2x1.v,1605603822,verilog,,C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/registro.v,,mux2x1,,,,,,,,
+C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/registro.v,1605594885,verilog,,C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/registroa.v,,registro,,,,,,,,
+C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/registroa.v,1605595022,verilog,,C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/restador.v,,registroa,,,,,,,,
+C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/restador.v,1605595178,verilog,,C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/sumador.v,,restador,,,,,,,,
+C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/sumador.v,1605595266,verilog,,C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/unidad_de_control_main.v,,sumador,,,,,,,,
+C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sources_1/new/unidad_de_control_main.v,1605607078,verilog,,C:/A_working/VHDL/basys3/unidad de control/unidad de control.srcs/sim_1/new/unidad_de_control_main_tb.v,,unidad_de_control_main,,,,,,,,
